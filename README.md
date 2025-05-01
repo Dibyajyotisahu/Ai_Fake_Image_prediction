@@ -1,6 +1,7 @@
 # Ai_Fake_Image_prediction
 
 ## 🌐 Socials:
+# Dibyajyoti Sahu
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Dibyajyoti_sahu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dibyajyotisahu0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyajyoti-sahu-844ba0343/)
