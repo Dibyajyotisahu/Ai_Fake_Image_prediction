@@ -1,7 +1,4 @@
 # Ai_Fake_Image_prediction
-# 💫 About Me:
-🔭 I’m currently working as a student<br>👯 I’m looking to collaborate on every project and internship<br>🤝 I’m looking for help with coding and build project<br>🌱 I’m currently learning java,pyhton,dsa in java, webd, database.<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Dibyajyoti_sahu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dibyajyotisahu0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyajyoti-sahu-844ba0343/) [![Medium]
